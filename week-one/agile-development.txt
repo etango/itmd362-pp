@@ -65,6 +65,7 @@ done that, do the following:
 
 3. Copy below the output from `ssh git@github.com`:
 
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAACAQDH75eFRj/H+O3f0dzZajcEZ+2Mu4E15wnP5oSJ5WJafWyyYthO4nQoWooAzp6UyWh2PVy1jedv9U6zeVRNxUrQMuayT9IHZomaszOUTYV6qAnMSBBUXYZHYzpkyh8pI0cDWrwfjv4bnVpQ0G1wXIhGNx7NTSHcUDAuU2OxNvefy4qY+knWrQf4OIMWS4q0nYn7ppP3b81FEawCwKwH8+OHVSfmc49x9/WvKJEAAjcgrT6V6W4qsVBdMIZKUXC/w87whx67RFyGOKPOaTgB913K5osSHTYkriOnKW0JJLkr/UoJ5a/vKXdjvupQ4ikdw55xw2t3Gkz/gQqg/vi+8AWsHiEgDQ7xSqginOSySYRzdwomeXvc8t7sC2AhXyxXmoX2opm6ptYrDHFFvLXZhSDYNgDNKXmVs5PQrnKj7Juc2Fs1hMisZj3PE4szgfd9R0ZW690xZNvSwbZ+XnLN/tBBhCRfyodXcQzo/JDqxIrt4wnmjr9u57P5KQRB62w4OsVMw3aveOMCmKQn3baFTRkiPPxLMKALo28DcBlEC/mePr0liPa2Xq66GepdsjKPjfm5qU2gkarf1dKOG9ghI6nL1i2bBAGD+wMWJe9nq6iYQ00TuvnRuXz4bzynT44GjLb+bSSVjPOmm98PeTTuOIef9ApqHS/U3ixZJEYYE37Ybw== etang315@gmail.com
 
 Clone your fork of this repository. Then, on your computer, add a remote
 referencing my copy of the repository as the upstream rep by running
@@ -73,6 +74,10 @@ referencing my copy of the repository as the upstream rep by running
 4. Copy below the output from `git remote -v` from within your copy of this
 repository:
 
+origin https://github.com/etango/itmd362-pp.git (fetch)
+origin https://github.com/etango/itmd362-pp.git (push)
+upstream	https://github.com/karlstolley/itmd362-pp.git (fetch)
+upstream	https://github.com/karlstolley/itmd362-pp.git (push)
 
 Next, you need to install Node.js, and possibly also npm, if you don’t have it
 already.
