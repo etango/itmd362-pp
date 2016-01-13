@@ -57,7 +57,8 @@ First, you need to install Git, if you don’t have it already.
 git version 1.9.1
 
 2. Copy below the output from `git config --global --list`:
-
+user.email=etang315@gmail.com
+user.name=ETango
 
 You also need to set up your public/private keypair with GitHub. Once you’ve
 done that, do the following:
