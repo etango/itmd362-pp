@@ -38,7 +38,7 @@ Use Google or another search engine to learn the keyboard commands to take a scr
 
 Then, also list here the keyboard commands to switch between your different virtual desktops (on some operating systems, you might be able to customize the shortcuts to your own liking):
 
-
+Window 10 = crt+win+right/left arrow key to switch between virtual desktop.
 4. Set up a distraction-free browser.
 
 Have at least one browser that is free from bookmarks, bookmark bars, and your personal browsing history. Set it up to clear all history when you exit it, if possible.
