@@ -28,7 +28,7 @@ li a{
     text-align: center;
     padding: 1em 3em;
     text-decoration: none;
-    background-color:cyan
+    background-color:aliceblue;
     
     
 }
@@ -36,16 +36,27 @@ li a{
 
 li a:hover {
     
-    background-color:aqua;
+    background-color:greenyellow;
     
 }
 
 #title{
-    
+    color:dodgerblue;
+    text-align: center;
+    margin-top:1cm;
     
 }
 
 
+#body{
+    
+    
+    background-color:white;
+    margin-right:2cm;
+    margin-left:2cm;
+    padding-left:1cm;
+    padding-right:1cm;
+}
 
 
 #intro{
