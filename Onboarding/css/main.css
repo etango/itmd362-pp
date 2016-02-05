@@ -1,6 +1,9 @@
 body{
     
     background-color:antiquewhite;
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
+    
     
     
 }
@@ -28,7 +31,8 @@ li a{
     text-align: center;
     padding: 1em 3em;
     text-decoration: none;
-    background-color:aliceblue;
+    background-color:deepskyblue;
+    font-family: arial;
     
     
 }
@@ -44,7 +48,7 @@ li a:hover {
     color:dodgerblue;
     text-align: center;
     margin-top:1cm;
-    
+    font-family:sans-serif;
 }
 
 
@@ -56,6 +60,7 @@ li a:hover {
     margin-left:2cm;
     padding-left:2cm;
     padding-right:2cm;
+    font-family:cursive;
 }
 
 
@@ -65,6 +70,7 @@ li a:hover {
     padding-top:5em;
     padding-bottom:5em;
     text-align: justify;
+    color:darkslategray;
 }
 
 
@@ -72,8 +78,12 @@ li a:hover {
 
 #sign{
     
-    text-align: right;
     
+    text-align: right;
+    margin-bottom:1em;
+    margin-top:5em;
+    text-decoration:none;
+    display:block;
     
     
 }
