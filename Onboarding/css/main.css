@@ -54,14 +54,17 @@ li a:hover {
     background-color:white;
     margin-right:2cm;
     margin-left:2cm;
-    padding-left:1cm;
-    padding-right:1cm;
+    padding-left:2cm;
+    padding-right:2cm;
 }
 
 
 #intro{
     
-    margin-top:10em;
+    margin-top:3em;
+    padding-top:5em;
+    padding-bottom:5em;
+    text-align: justify;
 }
 
 
@@ -69,6 +72,7 @@ li a:hover {
 
 #sign{
     
+    text-align: right;
     
     
     
