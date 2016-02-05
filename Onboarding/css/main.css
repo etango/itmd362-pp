@@ -76,14 +76,22 @@ li a:hover {
 
 
 
-#sign{
+#sign {
     
     
     text-align: right;
-    margin-bottom:1em;
-    margin-top:5em;
-    text-decoration:none;
-    display:block;
+   
     
     
+}
+
+#sign a{
+    
+    text-decoration: none;
+    
+    color:black;
+}
+
+#sign a:hover{
+    color:greenyellow;
 }
