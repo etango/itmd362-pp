@@ -1,0 +1,64 @@
+body{
+    
+    background-color:antiquewhite;
+    
+    
+}
+
+#nav {
+    
+    list-style-type: : none;
+    margin: 0;
+    padding: 0;
+    
+}
+
+li{
+    
+    
+    float:right;
+    
+    
+}
+
+li a{
+    
+    display: block;
+    color:white;
+    text-align: center;
+    padding: 1em 3em;
+    text-decoration: none;
+    background-color:cyan
+    
+    
+}
+
+
+li a:hover {
+    
+    background-color:aqua;
+    
+}
+
+#title{
+    
+    
+}
+
+
+
+
+#intro{
+    
+    margin-top:10em;
+}
+
+
+
+
+#sign{
+    
+    
+    
+    
+}
