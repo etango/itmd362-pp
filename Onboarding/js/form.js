@@ -19,7 +19,7 @@ phone.placeholder = "(xxx)-xxx-xxxx";
 var labelemail = document.createElement('label');
 labelemail.id = "email_name";
 var labelphone = document.createElement('label');
-labelemail.id = "phone_number";
+labelphone.id = "phone_number";
 
 var text1 = document.createTextNode("Email Address: ");
 var text2 = document.createTextNode("Phone Number: ");
