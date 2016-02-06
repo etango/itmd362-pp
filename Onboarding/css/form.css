@@ -50,6 +50,7 @@ li a:hover {
     color:dodgerblue;
     margin-top:1em;
     margin-left: 1cm;
+    font-family: inherit;
 }
 
 
@@ -106,7 +107,6 @@ border-radius: 4px 4px 4px;
 
 
 #rdy{
-     font-family:arial;
-     font-style:italic;
+     font-family:inherit;
      color:dodgerblue;
 }
