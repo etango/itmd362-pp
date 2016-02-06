@@ -1,6 +1,10 @@
 body {
+    background-color:antiquewhite;
+    -webkit-box-sizing:border-box;
+    -moz-box-sizing:border-box;
     
-    background-color:antiquewhite; 
+    
+ 
 }
 
 #nav {
@@ -43,19 +47,27 @@ li a:hover {
     
     
     text-align: center;
-    color:darkorange;
+    color:dodgerblue;
     margin-top:1em;
+    margin-left: 1cm;
 }
+
+
 #sign-up{
-    margin-top:8em;
+    
+  
+    
+    margin-top: 2cm;
+    margin-bottom:cm; 
+    margin-left: 2cm;
+    margin-right:2cm;
+    padding-top:2cm;
+    padding-bottom:2cm;
     text-align: center;
-    margin-left:1cm;
-    margin-right:1cm;
 }
 
 #submit{
-margin-left:70em;
-margin-right:auto;
+margin-left:2cm;
 font-style: italic;
 border-radius: 4px 4px 4px;
     
@@ -65,5 +77,36 @@ border-radius: 4px 4px 4px;
     
     font-style: italic;
     border-radius: 4px 4px 4px;
+    margin-left:1cm;
+}
+
+
+
+#email {
+    margin-left: 1cm;
     
+}
+
+#phone{
+    
+    margin-left: 1cm;
+}
+
+
+#email_name{
+    
+    font-family:sans-serif;
+    color:dodgerblue;
+}
+
+#phone_number{
+    font-family: sans-serif;
+    color:dodgerblue;
+}
+
+
+#rdy{
+     font-family:arial;
+     font-style:italic;
+     color:dodgerblue;
 }
