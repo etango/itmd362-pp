@@ -26,7 +26,8 @@ li a{
     text-align: center;
     padding: 1em 3em;
     text-decoration: none;
-    background-color:cyan
+    background-color:deepskyblue;
+    font-family: arial;
     
     
 }
@@ -34,12 +35,35 @@ li a{
 
 li a:hover {
     
-    background-color:aqua;
+    background-color:greenyellow;
     
 }
+
+#title{
+    
+    
+    text-align: center;
+    color:darkorange;
+    margin-top:1em;
+}
 #sign-up{
-    
-    
-    margin-left:5cm;
+    margin-top:8em;
+    text-align: center;
+    margin-left:1cm;
     margin-right:1cm;
+}
+
+#submit{
+margin-left:70em;
+margin-right:auto;
+font-style: italic;
+border-radius: 4px 4px 4px;
+    
+}
+
+#reset{
+    
+    font-style: italic;
+    border-radius: 4px 4px 4px;
+    
 }
