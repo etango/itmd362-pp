@@ -46,3 +46,10 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
+
+/*custom css style */
+
+.wrapper{
+    vertical-align: baseline;
+    max-height: 1em;
+}
