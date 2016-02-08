@@ -51,5 +51,18 @@ table {
 
 .wrapper{
     vertical-align: baseline;
-    max-height: 1em;
+    max-width: 10em;
+    margin-left:.5em;
+}
+
+#submit{
+    margin-top:.3em;
+}
+
+label{
+    display:inline-block;
+}
+
+textarea{
+    min-width: 12.5em;
 }
