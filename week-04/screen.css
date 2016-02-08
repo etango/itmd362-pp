@@ -48,11 +48,13 @@ table {
 }
 
 /*custom css style */
+@import url(https://fonts.googleapis.com/css?family=PT+Sans);
 
 .wrapper{
     vertical-align: baseline;
     max-width: 10em;
     margin-left:.5em;
+    margin-top:1em;
 }
 
 #submit{
@@ -61,8 +63,18 @@ table {
 
 label{
     display:inline-block;
+    font-family:inherit;
+    color:black;
+    font-style:italic;
+    font-size:1em;
+    text-transform: uppercase;
+    
 }
 
 textarea{
     min-width: 12.5em;
+}
+
+.wrapper{
+   font-family: "PT Sans",monospace,inherit;
 }
