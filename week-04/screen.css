@@ -50,6 +50,9 @@ table {
 /*custom css style */
 @import url(https://fonts.googleapis.com/css?family=PT+Sans);
 
+body{
+    background-color:antiquewhite;
+}
 .wrapper{
     vertical-align: baseline;
     max-width: 10em;
@@ -59,15 +62,15 @@ table {
 }
 
 #submit{
-    margin-top:.3em;
+    margin-top:.5em;
 }
 
 label{
     display:inline-block;
     color:black;
-    font-style:italic;
     font-size:1em;
     text-transform: uppercase;
+    margin-top:.5em;
     
 }
 
