@@ -53,8 +53,9 @@ table {
 .wrapper{
     vertical-align: baseline;
     max-width: 10em;
-    margin-left:.5em;
-    margin-top:1em;
+    margin-left:10em;
+    margin-top:5em;
+    font-family: "PT Sans",monospace,inherit;
 }
 
 #submit{
@@ -63,7 +64,6 @@ table {
 
 label{
     display:inline-block;
-    font-family:inherit;
     color:black;
     font-style:italic;
     font-size:1em;
@@ -75,6 +75,3 @@ textarea{
     min-width: 12.5em;
 }
 
-.wrapper{
-   font-family: "PT Sans",monospace,inherit;
-}
