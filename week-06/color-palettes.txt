@@ -15,8 +15,12 @@ Fine-grained, atomic commits to your Production Problems repository that include
 
 * A monochromatic palette for a website that creates high-end, custom-made gaming laptops.
 
-Filename:
+Filename: custom-made-gaming-laptops.png
 Explanation of your color choices:
+The reason why I picked the shades of blue, because the community of the gaming industries favors the color blue. Majoritying of the products feature a blue led scheme. Mechanical Keyboard features blue led, razer mouse such as death adder, mazer, logitech and etc. Espescially many of the pro team has theme of blue in them. 
+Example CLG is black and blue and Cloud 9 is white and blue. This all made a wonderful contrast and would attract customers. Also haveing the custom-gaming laptop 
+color focus a metallic silver or shades of grey with blue led keyboard is a very eye appealing compare a backlit standard white light. This definitely attracts more
+customer that are into the game industries. 
 
 * A shaded color palette for a website that sells natural and organic foods.
 
