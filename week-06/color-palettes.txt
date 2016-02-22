@@ -31,8 +31,11 @@ is awesome for the text and the website it self can focus different shades of gr
 
 * A complementary palette for a banking website.
 
-Filename:
+Filename: bank.png
 Explanation of your color choices:
+The reason why I choose mostly a white scheme with one blue and close to grey color is because for banking website you want to keep it simple. There no need for all the fashion color to 
+distract the user from completing their task. Majority of the time user are using the website to check their account or pay for bills. The white simple layout help the text be read able
+without hurting their eyes. Also the blue is just a nice touch to it without distracting the user too much. Grey is the submit/login button or any part of the nav bar. 
 
 * A triadic palette for a website that offers games for children.
 
