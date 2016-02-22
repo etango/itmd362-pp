@@ -24,8 +24,10 @@ customer that are into the game industries.
 
 * A shaded color palette for a website that sells natural and organic foods.
 
-Filename:
-Explanation of your color choices:
+Filename: natural-organic-foods.png
+Explanation of your color choices: The reason I chose shade of green because it represent the theme of organic food which is natural and healthy. There is no better color
+to present the natural other than green. If you go into a field of forest is different shade of green depending on the plant. Also green veggie is healthy for us. The dark shade of green 
+is awesome for the text and the website it self can focus different shades of green around the area such as submit button or nav. 
 
 * A complementary palette for a banking website.
 
