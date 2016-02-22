@@ -39,5 +39,7 @@ without hurting their eyes. Also the blue is just a nice touch to it without dis
 
 * A triadic palette for a website that offers games for children.
 
-Filename:
+Filename: chilren-game.png
 Explanation of your color choices:
+The reason why I chose this color because it feels friendly and colorful. It attracts kid to play without hurting their eyes and is cute. The blue has a nice solid touch that will goes well with anything. Orange color present a friendly welcoming to the website. The green is a safe color to have the website feel safe to be on. The purple is a nice color to attract the kid to a different color on the website.
+
