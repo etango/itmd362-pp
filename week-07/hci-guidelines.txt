@@ -37,4 +37,6 @@ https://www.google.com/design/spec/style/color.html#color-color-schemes
 "The guidline on picking a primary color help me choose two focus color. I choose the Primary color indgo blue or relatively close to blue as it provides the header without distracting the user. The black portion is for the menu to have a good contrast on the  user eye. Upon choosing the color I implemented a + to hide the menu from the initial start of going iit. The idea was inspired from looking samples of the color choices where I saw + hiding the menu. Since the main focus of the iit web page is have the student login, the + will the additional information that can be accessed later by the user if needed." 
 
 * HCI Guidline Three (URL):
+https://www.google.com/design/spec/animation/responsive-interaction.html#responsive-interaction-material-response
 * How you implemented it in your sketch:
+Using the animation effection from this guidline enlarge the bubble where the user tap on login space or password area and enlarge a bubble for the user to enter the info. This helps the user to have an easier time to scroll through the letter of the word if they made a mistake. Also I change the menu on the bottom to a hide/fold effect. So if the user wish to see more option of the iit webpage they will tap on the plus to unfold the hidden menu.
