@@ -27,7 +27,9 @@ Fine-grained, atomic commits to your Production Problems repository that include
    specific URL where the guidance can be found) that you implemented in your sketch, written below:
 
 * HCI Guidline One (URL):
+https://www.google.com/design/spec/components/bottom-sheets.html#bottom-sheets-modal-bottom-sheets
 * How you implemented it in your sketch:
+I implemented my sketch where is mobile friend for the user thumb taking the concept from the mobile web design book. I rearrange the boxes below the login query into a drop menu when the user tap on it on the mobile view. I have a simple setup of login and password of iit with login and forgot password. Since clear is not needed. The website is simple and gets to the point of login. IIT alert is on the bottom of the menu. 
 
 * HCI Guidline Two (URL):
 * How you implemented it in your sketch:
