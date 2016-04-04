@@ -15,13 +15,13 @@ What you are going to do for this Production Problem is to locate at least 2 dif
 
 * Your own condensed, ten-item must-have usability checklist:
 
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
+1. URLs Are Meaningful & User-friendly
+2. Adequate Text-to-Background Contrast
+3. Font Size/Spacing Is Easy to Read
+4. Main Navigation Is Easily Identifiable
+5. Links, buttons and checkboxes are easily clickable
+6. Users know where they are on the site
+7. Content is written with common language 
+8. Simplicity
+9. Consistency
+10. Browser compatibility
