@@ -13,6 +13,23 @@ Using the HTML Tidy tool, installed as a command-line tool on your computer via 
 
 1. First, run HTML Tidy on the index.html file. Copy and paste the errors here:
 
+etango@etango-VirtualBox:~/Desktop/itmd362-pp/week-11$ tidy index.html 
+line 6 column 5 - Warning: <meta> unexpected or duplicate quote mark
+line 9 column 5 - Error: <figure> is not recognized!
+line 9 column 5 - Warning: discarding unexpected <figure>
+line 10 column 46 - Warning: <img> attribute with missing trailing quote mark
+line 13 column 14 - Warning: replacing invalid character code 128
+line 13 column 15 - Warning: replacing invalid character code 153
+line 14 column 5 - Warning: discarding unexpected </figure>
+line 10 column 7 - Warning: missing </a> before <p>
+line 5 column 5 - Warning: <meta> proprietary attribute "charset"
+line 5 column 5 - Warning: <meta> lacks "content" attribute
+line 7 column 5 - Warning: <link> inserting "type" attribute
+line 16 column 5 - Warning: <script> inserting "type" attribute
+Info: Document content looks like HTML Proprietary
+11 warnings, 1 error were found!
+
+
 2. Fix as many errors as are listed by HTML Tidy, and re-run until there are no errors reported. HINT: Always fix the first error reported, then re-run tidy. Then, run the contents of `index.html` through the HTML validator. List any errors that the validator reports here:
 
 3. Finally, fix the errors that are listed by the HTML validator, and commit the `index.html` file in its error-free state.
