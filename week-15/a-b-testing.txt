@@ -13,3 +13,7 @@ Take a screenshot of the interface on both a mobile and desktop device. Then, sk
 * Sketch or illustrate (e.g., in Photoshop) your alternate/"b" test, placed in this directory (`week-15`)
 
 * A text description of the modification, and a description of the HTML, CSS, and JavaScript that you would need to write for the test (you do *not* have to write the actual HTML, CSS, and JavaScript, however)
+
+The modification will be consists of javascript to enble the slide show of the anime listed on the website. Some basic modification to html by removing a lot of the unneed stuff on the website. 
+The website itself feels to clumped with unncessary stuff that is not needed on the website.
+As for the mobile device keep it simple with the slide of anime and a list of anime also a search function.
